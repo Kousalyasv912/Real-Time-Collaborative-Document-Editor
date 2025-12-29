@@ -119,9 +119,6 @@ OUTPUT
 <img width="1919" height="313" alt="Image" src="https://github.com/user-attachments/assets/1fb74f08-1c95-4521-80a5-0260edf549de" />
 
 
-<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/17d0df92-0388-49ca-b769-4aaf7259b4bc" />
-
-
 <img width="1898" height="1005" alt="Image" src="https://github.com/user-attachments/assets/f5053e55-baa9-445c-acbe-237ed272b9d0" />
 
 
