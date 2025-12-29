@@ -17,6 +17,8 @@ The Collaborative Document Editor is a web-based application designed to simplif
 
 The main objective of this project is to demonstrate how modern web technologies can be used to build an interactive document editing system with a focus on usability, clarity, and scalability.
 
+
+
 Features
 
 🗂️ Document Dashboard
@@ -37,6 +39,8 @@ Ensures that changes made to documents can be saved and retained.
 🌙 Modern User Interface
 A visually appealing dark-themed design that improves readability and provides a professional look.
 
+
+
 📌 Use Cases
 
 📚 Academic Projects
@@ -50,6 +54,8 @@ Individuals can manage personal notes and documents in one place.
 
 🏫 Educational Demonstrations
 Useful for demonstrating collaborative editor concepts in classrooms or labs.
+
+
 
 🚀 Future Enhancements
 
@@ -67,6 +73,8 @@ Implement secure login and role-based access control.
 
 ☁️ Cloud Integration
 Store documents securely in the cloud and enable sharing across users.
+
+
 
 ✅ Conclusion
 
